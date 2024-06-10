@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# API-JSONtoZOD
+ this project is used to convert data into JSON format based on the given schema.
 
 ## Getting Started
 
