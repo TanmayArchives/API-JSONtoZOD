@@ -114,6 +114,6 @@ export const POST = async (req: NextRequest) => {
   } catch (err:any) {
     console.error('Error processing request:', err);
     return NextResponse.json({ error: err.message }, { status: 500 });
-
+    // this project is used to convert data into JSON format based on the given schema.
   }
 };
